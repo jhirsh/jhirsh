@@ -2,7 +2,7 @@
 - 👀 I’m interested in Swift, especially iOS apps
 - 🌱 I’m currently learning Vapor
 - 💞️ I’m looking to collaborate on weekend projects
-- 📫 How to reach me: @jonas.hirshland (Twitter)
+- 📫 How to reach me: @jonashirshland (Twitter)
 
 <!---
 jhirsh/jhirsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
