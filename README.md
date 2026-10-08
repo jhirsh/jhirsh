@@ -2,7 +2,7 @@
 
 Full-stack in San Francisco. I make software for the places people gather.
 
-**Now:** Technical co-founder at [Boppn](https://justboppn.com). Web, iOS, and backend for in-person events (private repos).
+**Now:** Technical co-founder at [Boppn](https://justboppn.com). Web, iOS, and backend for in-person events (private repos).\n
 **Before:** Software engineer (contract) at Movemint · Senior full-stack at Operto · Head of product at DACK (acquired by Operto, 2024)
 
 **Public stuff**
